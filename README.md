@@ -27,7 +27,7 @@ Here, "word_ids_for_mask" means word indices corresponding to each region in a m
 ## Citation
 Please cite our paper if you find the code useful:
 ```
-@Article{endoTVC2022,
+@Article{endoTVC2023,
 Title = {Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation},
 Author = {Yuki Endo},
 Journal = {The Visual Computer},
