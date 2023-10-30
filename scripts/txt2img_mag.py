@@ -215,7 +215,7 @@ def main():
     parser.add_argument(
         "--lmda",
         type=float,
-        help="masked attention loss weight",
+        help="masked attention loss balancing weight",
         default= 0.5
     )
 
