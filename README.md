@@ -33,10 +33,9 @@ Please cite our paper if you find the code useful:
 Title = {Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation},
 Author = {Yuki Endo},
 Journal = {The Visual Computer},
-volume = {},
-number = {},
-pages = {},
-doi = {},
+volume = {40},
+pages = {6033-6045},
+doi = {https://doi.org/10.1007/s00371-023-03151-y},
 Year = {2023}
 }
 ```
